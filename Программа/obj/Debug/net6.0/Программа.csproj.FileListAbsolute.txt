@@ -1,0 +1,15 @@
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.AssemblyInfo.cs
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/Программа
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/Программа.deps.json
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/Программа.runtimeconfig.json
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/Программа.dll
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/ref/Программа.dll
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/bin/Debug/net6.0/Программа.pdb
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.dll
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/ref/Программа.dll
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.pdb
+/home/max/Рабочий стол/GeekBrains/Выбор специализации/Задача/Программа/obj/Debug/net6.0/Программа.genruntimeconfig.cache
